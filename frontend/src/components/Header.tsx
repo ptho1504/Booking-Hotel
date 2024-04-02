@@ -29,7 +29,7 @@ const Header = () => {
                 My Bookings
               </Link>
               <Link
-                to="/my-motels"
+                to="/my-hotels"
                 className="flex text-white items-center  px-3 font-bold hover:bg-gray-100 hover:text-blue-500"
               >
                 My Hotels
