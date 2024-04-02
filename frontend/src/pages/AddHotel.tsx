@@ -1,4 +1,3 @@
-import React from 'react'
 import ManageFormHotel from '../forms/ManageForm/ManageFormHotel'
 import { useAppContext } from '../contexts/AppContext'
 import * as apiClient from '../api-client'
